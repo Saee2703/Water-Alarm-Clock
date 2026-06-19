@@ -8,3 +8,5 @@ Technical deliverables: Full schematic with zero ERC errors, 2-layer PCB layout 
 
 Tools: KiCad 8
 <img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/ed7520c6-20be-4507-9d27-9f9e35e480d9" />
+<img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/f77b3a80-1f51-42a2-a32c-33bb2f0ea2ec" />
+<img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/d0685825-4e6f-42fa-ad09-5293e3748111" />

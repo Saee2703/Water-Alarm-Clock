@@ -7,3 +7,4 @@ When water bridges the detection probes, it provides gate voltage to a 2N7000 N-
 Technical deliverables: Full schematic with zero ERC errors, 2-layer PCB layout with ground plane, DRC zero errors, 3D view generated.
 
 Tools: KiCad 8
+<img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/ed7520c6-20be-4507-9d27-9f9e35e480d9" />
